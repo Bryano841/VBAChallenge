@@ -53,4 +53,5 @@ Stock DYN.W had the greatest yearly decrease at 91.49%.
 Stock BAC had the greatest total volume at year's end at 27,428,529,600.
 
 Disclaimer
+
 The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual stock market data is unknown.
