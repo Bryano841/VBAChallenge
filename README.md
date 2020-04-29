@@ -29,7 +29,7 @@ Observations
 
 ![image](https://user-images.githubusercontent.com/54809591/80606962-e2ed6d80-8a02-11ea-9649-8385eb7cb68e.png)
 
-https://github.com/Bryano841/VBAChallenge/blob/master/VBAChallenge2016.png
+![image](https://user-images.githubusercontent.com/54809591/80607202-39f34280-8a03-11ea-98fa-6503feb7e02a.png)
 
 2014 Stock Market Data
 
