@@ -27,7 +27,7 @@ Observations
 
 ![image](https://user-images.githubusercontent.com/54809591/80606633-9013b600-8a02-11ea-80ef-4d28f4697657.png)
 
-![image](https://user-images.githubusercontent.com/54809591/80606962-e2ed6d80-8a02-11ea-9649-8385eb7cb68e.png
+![image](https://user-images.githubusercontent.com/54809591/80606962-e2ed6d80-8a02-11ea-9649-8385eb7cb68e.png)
 
 https://github.com/Bryano841/VBAChallenge/blob/master/VBAChallenge2016.png
 
